@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Franco"
+		},
+		{
+			"path": "../Franco 2"
+		},
+		{
+			"path": "../Vurache"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Vurache"
+	}
+}
